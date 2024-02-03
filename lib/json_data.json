@@ -1,0 +1,266 @@
+{
+  "status": "ok",
+  "totalResults": 70,
+  "articles": [
+    {
+      "source": {
+        "id": "financial-times",
+        "name": "Financial Times"
+      },
+      "author": null,
+      "title": "Live news: European stocks and Wall Street futures rise ahead of US jobs data - Financial Times",
+      "description": null,
+      "url": "https://www.ft.com/content/f9d0da8a-ac43-4f0d-8af5-d597d1f13bb8",
+      "urlToImage": null,
+      "publishedAt": "2024-02-02T08:33:16Z",
+      "content": "Try unlimited accessOnly $1 for 4 weeks\r\nThen $75 per month.Complete digital access to quality FT journalism on any device. Cancel anytime during your trial."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Chiranjivi Chakraborty and John Viljoen",
+      "title": "Europe Stocks to Follow Asia Higher; China Drops: Markets Wrap - Yahoo Finance",
+      "description": "(Bloomberg) -- Stocks posted broad gains Friday after robust earnings from technology giants and as investors looked forward to a US jobs report expected to ...",
+      "url": "https://finance.yahoo.com/news/asia-shares-rise-tech-earnings-230720081.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/PWP4Cu1lbdUnp0ZK_2aKLg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_markets_842/1dd1a76f9928ad76877f7216bea746a2",
+      "publishedAt": "2024-02-02T07:06:00Z",
+      "content": "(Bloomberg) -- Stocks posted broad gains Friday after robust earnings from technology giants and as investors looked forward to a US jobs report expected to show further cooling in the labor market i… [+3912 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Sheila Chiang",
+      "title": "AMD bets on AI-powered PCs as artificial intelligence race with Nvidia, Intel heats up - CNBC",
+      "description": "U.S. chip giant Advanced Micro Devices is betting on AI PCs as competition with rivals Nvidia and Intel intensifies",
+      "url": "https://www.cnbc.com/2024/02/02/amd-bets-on-ai-powered-pcs-as-artificial-intelligence-race-with-nvidia-and-intel-heats-up.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107367490-1706766431716-gettyimages-1561361010-AMD_Investing_400_Million_in_India.jpeg?v=1706852956&w=1920&h=1080",
+      "publishedAt": "2024-02-02T05:41:28Z",
+      "content": "SHANGHAI, CHINA - JULY 28, 2023 - Photo taken on July 28, 2023 shows the AMD logo at the 2023 ChinaJoy in Shanghai, China.\r\nU.S. chip giant Advanced Micro Devices is betting on AI PCs to take on riva… [+3518 chars]"
+    },
+    {
+      "source": {
+        "id": "the-hill",
+        "name": "The Hill"
+      },
+      "author": "The Hill",
+      "title": "123 passengers sickened aboard cruise ship: CDC - The Hill",
+      "description": null,
+      "url": "https://thehill.com/policy/healthcare/4443658-123-passengers-sickened-aboard-cruise-ship-cdc/",
+      "urlToImage": null,
+      "publishedAt": "2024-02-02T03:34:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Inman"
+      },
+      "author": "https://www.facebook.com/andreavbrambila",
+      "title": "Keller Williams Settles Sitzer, Moehrl Commission Suits For $70M - Inman - Inman",
+      "description": "Under the proposed deal, Keller Williams must inform franchisees that offers of compensation are not required. It also agreed to revise training materials and end rules requiring agents to join NAR.",
+      "url": "https://www.inman.com/2024/02/01/keller-williams-settles-sitzer-moehrl-commission-suits-for-70m/",
+      "urlToImage": "https://assets.inman.com/wp-content/uploads/2024/02/Untitled-design-2024-02-01T115158.078-1024x576.png",
+      "publishedAt": "2024-02-02T02:57:58Z",
+      "content": "Mark your calendars for the ultimate real estate experiences with Inmans upcoming events! Dive into the future at Connect Miami, immerse in luxury at Luxury Connect, and converge with industry leader… [+14447 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Fox Business"
+      },
+      "author": "Eric Revell",
+      "title": "Amazon launches AI-powered shopping assistant Rufus - Fox Business",
+      "description": "Amazon launched its new Rufus AI-powered shopping assistant on Thursday to a select group of beta users ahead of a broader rollout to all U.S. users in the coming weeks.",
+      "url": "https://www.foxbusiness.com/technology/amazon-launches-ai-powered-shopping-assistant-rufus",
+      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2024/02/0/0/Amazon-GettyImages-1915741110.jpg?ve=1&tl=1",
+      "publishedAt": "2024-02-02T02:08:00Z",
+      "content": "Amazon on Thursday unveiled Rufus, a new shopping assistant powered by generative artificial intelligence (AI)\r\n that can answer customers’ questions and make recommendations based on their preferenc… [+3834 chars]"
+    },
+    {
+      "source": {
+        "id": "axios",
+        "name": "Axios"
+      },
+      "author": "Axios",
+      "title": "Former Messenger staffers file class-action lawsuit over news site shutdown - Axios",
+      "description": null,
+      "url": "https://www.axios.com/2024/02/02/messenger-class-action-lawsuit-former-employees",
+      "urlToImage": null,
+      "publishedAt": "2024-02-02T01:40:35Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "KMBC Kansas City"
+      },
+      "author": "Matt Flener",
+      "title": "Mail mess: Business owner desperate for solutions as USPS mail delays continue in Kansas City - KMBC Kansas City",
+      "description": "KMBC has received multiple reports from people in the past 48 hours from all parts of the viewing area.",
+      "url": "https://www.kmbc.com/article/business-owner-desperate-as-usps-mail-delays-continue-in-kansas-city/46617676",
+      "urlToImage": "https://kubrick.htvapps.com/vidthumb/96699ddf-0b7f-4128-b25e-8622616b62e3/0ea377d1-a38a-4d5b-98cd-dc41be95397a.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*",
+      "publishedAt": "2024-02-02T00:59:00Z",
+      "content": "KANSAS CITY, Mo. —More people are reaching out to KMBC 9 Investigates saying they are missing mail.\r\nKMBC has received multiple reports from people in the past 48 hours from all parts of the viewing … [+1291 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Deadline"
+      },
+      "author": "Jill Goldsmith",
+      "title": "Apple Services, Home Of Apple TV+, Has “Well Over” 1 Billion Paid Subscriptions; CEO Tim Cook Salutes Martin Scorsese - Deadline",
+      "description": "Apple Services, the division that includes Apple TV+ as well as Apple Music, Apple News, Apple Arcade, Apple Books, Podcasts, Fitness, the App store, Apple One and other things Apple, saw record re…",
+      "url": "http://deadline.com/2024/02/apple-tim-cook-martin-scorsese-services-apple-tv-paid-subscriptions-1235811907/",
+      "urlToImage": "https://deadline.com/wp-content/uploads/2023/08/Tim-cook.jpg?w=1024",
+      "publishedAt": "2024-02-02T00:21:00Z",
+      "content": "Apple Services, the division that includes Apple TV+ as well as Apple Music, Apple News, Apple Arcade, Apple Books, Podcasts, Fitness, the App store, Apple One and other things Apple, saw record reve… [+1911 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": "Reuters",
+      "title": "Intel delays $20 bln Ohio project, citing slow chip market - WSJ - Reuters",
+      "description": null,
+      "url": "https://www.reuters.com/technology/intel-delays-20-bln-ohio-project-citing-slow-chip-market-wsj-2024-02-01/",
+      "urlToImage": null,
+      "publishedAt": "2024-02-02T00:16:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Alex Barinka and Jack Witzig",
+      "title": "Zuckerberg to Get $700 Million a Year From Meta's New Dividend - Yahoo Finance",
+      "description": "(Bloomberg) -- Meta Platforms Inc. Chief Executive Officer Mark Zuckerberg stands to receive a payout of about $700 million a year from the social media...",
+      "url": "https://finance.yahoo.com/news/zuckerberg-700-million-meta-dividend-001004662.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/2M9LlE7ty4pKX0dYzf0uPw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_technology_68/18c53ff6215c8209d27a6f02cc16c1c9",
+      "publishedAt": "2024-02-02T00:10:00Z",
+      "content": "(Bloomberg) Meta Platforms Inc. Chief Executive Officer Mark Zuckerberg stands to receive a payout of about $700 million a year from the social media giants first-ever dividend for investors.\r\nMost R… [+1279 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Julie Coleman",
+      "title": "Cramer's Lightning Round: SLB is a buy - CNBC",
+      "description": "\"Mad Money\" host Jim Cramer rings the lightning round bell, which means he's giving his answers to callers' stock questions at rapid speed.",
+      "url": "https://www.cnbc.com/2024/02/01/cramers-lightning-round-slb-is-a-buy.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/104548461-RTX1ILBY.jpg?v=1698191021&w=1920&h=1080",
+      "publishedAt": "2024-02-01T23:55:00Z",
+      "content": "Chewy: \"I think it's fine...I think it's very low, and that's something worth taking a look.\"\r\nJetBlue: \"These are airline stocks, and the airline stocks should have been making a lot more money, and… [+208 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Hamza Shaban",
+      "title": "Amazon stock pops as earnings beat - Yahoo Finance",
+      "description": "Amazon reported earnings after the bell Thursday.",
+      "url": "https://finance.yahoo.com/news/amazon-stock-pops-as-earnings-beat-211213025.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/r5nkqHMShjpqUofap5LdBA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03NTc-/https://s.yimg.com/os/creatr-uploaded-images/2024-01/90fd0120-bf46-11ee-b7e7-109dd1f95eb1",
+      "publishedAt": "2024-02-01T23:43:07Z",
+      "content": "Amazon (AMZN) reported fourth quarter earnings that beat analysts' expectations Thursday and delivered an optimistic outlook for the months ahead.\r\nThe stock climbed 7% higher in extended trading.\r\nN… [+4673 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Lisa Kailai Han",
+      "title": "S&P 500 futures gain after Meta, Amazon results as jobs report looms: Live updates - CNBC",
+      "description": "The major averages roared on Thursday, but now investors face another market catalyst: January's jobs report.",
+      "url": "https://www.cnbc.com/2024/02/01/stock-market-today-live-updates.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107367880-17068156792024-02-01t185002z_1810198018_rc2tt5azw0qr_rtrmadp_0_usa-stocks.jpeg?v=1706828931&w=1920&h=1080",
+      "publishedAt": "2024-02-01T23:22:00Z",
+      "content": "S&amp;P 500 futures rose on Thursday night as a trio of megacap tech titans reported results and investors looked ahead to the January jobs report.\r\nFutures tied to the broader market index rose abou… [+2426 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gothamist"
+      },
+      "author": "https://gothamist.com/staff/stephen-nessen",
+      "title": "Port Authority moves ahead with $10B replacement of Midtown's miserable bus terminal - Gothamist",
+      "description": "The project will take at least eight years to complete, officials said.",
+      "url": "https://gothamist.com/news/port-authority-moves-ahead-with-10b-replacement-of-midtowns-miserable-bus-terminal",
+      "urlToImage": "https://cms.prod.nypr.digital/images/343151/fill-1200x650|format-webp|webpquality-85/",
+      "publishedAt": "2024-02-01T23:02:00Z",
+      "content": "After years of stops and starts, the Port Authority on Thursday said its moving ahead with a plan to replace its decrepit Midtown bus terminal with a new world class facility.\r\nAgency officials said … [+2852 chars]"
+    },
+    {
+      "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "author": "KEN SWEET",
+      "title": "AmEx updates Delta SkyMiles credit cards — with a higher fee - The Associated Press",
+      "description": "American Express is rolling out several updates to its Delta SkyMiles credit cards that will give additional benefits to users. AmEx is eager to soothe sore Delta Air Lines customers who have considered abandoning the airline after last year’s SkyMiles loyalt…",
+      "url": "https://apnews.com/article/american-express-amex-delta-credit-card-skymiles-1fe9e3a78b7cb52b09cfa234db2c77f9",
+      "urlToImage": "https://dims.apnews.com/dims4/default/5b71a50/2147483647/strip/true/crop/3572x2009+0+372/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F64%2Ffe%2Ff4559b86214e1527defa1578efb0%2F17f03db30c624f1e8233ff6402fe1ccb",
+      "publishedAt": "2024-02-01T23:01:00Z",
+      "content": "NEW YORK (AP) American Express rolled out several updates to its Delta SkyMiles credit cards Thursday that will give additional benefits to users, part of efforts to soothe sore Delta Air Lines custo… [+3222 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New York Post"
+      },
+      "author": "Nolan Hicks, Steve Janoski",
+      "title": "MTA rolls out shiny, European-style trains with open gangways in NYC — but some straphangers aren’t in love just yet - New York Post ",
+      "description": "A new European-style subway train hit the tracks of the NYC subway Thursday — but some straphangers were ready to close the door on the experimental cars’ “open gangway” design.",
+      "url": "https://nypost.com/2024/02/01/metro/mta-rolls-out-shiny-new-european-style-trains-with-open-gangways-but-some-straphangers-arent-in-love-just-yet/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/02/020124-ny-governor-kathy-hochul-75773379.jpg?quality=75&strip=all&w=1024",
+      "publishedAt": "2024-02-01T22:38:00Z",
+      "content": "A new European-style train hit the Big Apple subway system Thursday — but some straphangers were ready to close the door on the experimental cars open gangway” design.\r\nThe first passengers were enam… [+4401 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Deadline"
+      },
+      "author": "Dade Hayes",
+      "title": "Disney Defends “Highly Qualified Board And Clear Strategy”, Reveals Date Of Annual Shareholder Meeting As Trian Renews Attacks In Proxy Fight - Deadline",
+      "description": "The Walt Disney Co. has come out in defense of its “highly qualified board and clear strategy” for growth and share price gains as activist investment firm Trian Capital issued its late…",
+      "url": "http://deadline.com/2024/02/disney-defends-board-trian-nelson-peltz-annual-shareholder-meeting-1235811623/",
+      "urlToImage": "https://deadline.com/wp-content/uploads/2023/01/disney.jpg?w=1024",
+      "publishedAt": "2024-02-01T22:31:00Z",
+      "content": "The Walt Disney Co. has come out in defense of its “highly qualified board and clear strategy” for growth and share price gains as activist investment firm Trian Capital issued its latest attacks on … [+2416 chars]"
+    },
+    {
+      "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "author": "DEVI SHASTRI",
+      "title": "Getting a dental X-ray? A new recommendation says you don't need a lead apron - The Associated Press",
+      "description": "People do not need to wear lead aprons or thyroid collars when getting X-rays at the dentist. That's according to the American Dental Association. The new recommendation is just that, however. State rules may dictate if people have to wear the aprons, and som…",
+      "url": "https://apnews.com/article/xray-dentist-lead-apron-teeth-982c5f06402153c3c7519430f4cf4eec",
+      "urlToImage": "https://dims.apnews.com/dims4/default/508f29a/2147483647/strip/true/crop/1353x761+0+70/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fe1%2Fdc%2F9917ef8978e8a5e182d6a3243c96%2Fdf4987c05bdc4f36979d5f9344c70834",
+      "publishedAt": "2024-02-01T22:18:00Z",
+      "content": "Those heavy lead aprons may be on their way out at the dentist office, depending on where you live.\r\nThe nations largest dental association said Thursday it will no longer recommend the use of lead a… [+2219 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Peter Kafka",
+      "title": "Meta spent billions to close offices and lay people off. Now we know why. - Yahoo! Voices",
+      "description": "Mark Zuckerberg lost $16 billion on the Metaverse last year, but Meta investors are elated because job cuts and office closures led to huge profits.",
+      "url": "https://www.businessinsider.com/meta-layoffs-office-closures-stock-price-mark-zuckerberg-earnings-2024-2",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/W4b1bILhTqWJWQ1wjnJQnA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05MDA-/https://media.zenfs.com/en/business_insider_articles_888/c63076343d13e963e0f26f0b7478e74a",
+      "publishedAt": "2024-02-01T22:01:55Z",
+      "content": "<ul><li>Meta lost an astonishing $16 billion on the Metaverse last year.\r\n</li><li>But Wall Street loves Meta late Thursday: Its stock is up another 12%.\r\n</li><li>One big reason: Even with the Metav… [+2452 chars]"
+    }
+  ]
+}
