@@ -1,4 +1,7 @@
 import 'package:flutter/material.dart';
+import 'package:flutter_bloc/flutter_bloc.dart';
+import 'package:news_app_53_maadi/cubit/news_cubit.dart';
+import 'package:news_app_53_maadi/cubit/news_state.dart';
 
 import '../build_item.dart';
 import '../news_data.dart';
@@ -8,6 +11,12 @@ class HealthPage extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return listItem(healthList);
+    return BlocBuilder<NewsCubit,NewsState>(
+        builder: (BuildContext context, state) {
+          return listItem(NewsCubit
+              .get(context)
+              .healthList);
+        }
+        );
   }
 }
