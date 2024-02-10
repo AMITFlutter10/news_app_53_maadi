@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:news_app_53_maadi/cubit/news_cubit.dart';
-import 'package:news_app_53_maadi/dio_helper.dart';
+import 'package:news_app_53_maadi/dio/dio_helper.dart';
 import 'package:news_app_53_maadi/view/home_page.dart';
 
 void main() {

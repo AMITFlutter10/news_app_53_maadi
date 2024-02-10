@@ -3,7 +3,7 @@ import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:news_app_53_maadi/cubit/news_cubit.dart';
 import 'package:news_app_53_maadi/cubit/news_state.dart';
 
-import '../build_item.dart';
+import 'widgets/build_item.dart';
 import '../news_data.dart';
 
 class HealthPage extends StatelessWidget {

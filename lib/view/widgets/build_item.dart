@@ -1,7 +1,7 @@
 
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:news_app_53_maadi/data_model.dart';
+import 'package:news_app_53_maadi/model_data/data_model.dart';
 
 class BuilderItem extends StatelessWidget {
   Articles data;
@@ -21,7 +21,7 @@ class BuilderItem extends StatelessWidget {
       ),
       child: ListTile(
         leading: data.urlToImage !=null ? Image.network("${data.urlToImage}"):
-        CircularProgressIndicator() ,
+       const CircularProgressIndicator() ,
         title: Text(data.title ?? "null"),
         subtitle: Text(data.description ?? "No data") ,
       ),

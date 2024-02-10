@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 
-import '../build_item.dart';
+import 'widgets/build_item.dart';
 import '../cubit/news_cubit.dart';
 import '../cubit/news_state.dart';
 import '../news_data.dart';

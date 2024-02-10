@@ -12,3 +12,6 @@ class ErrorSportState extends NewsState{}
 class LoadingScienceDataState extends NewsState{}
 class SuccessGetScienceDataState extends NewsState{}
 class ErrorScienceState extends NewsState{}
+
+
+class ChangeNavBarState extends NewsState{}

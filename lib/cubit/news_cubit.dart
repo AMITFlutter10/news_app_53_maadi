@@ -4,8 +4,8 @@ import 'package:bloc/bloc.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 
 import '../const.dart';
-import '../data_model.dart';
-import '../dio_helper.dart';
+import '../model_data/data_model.dart';
+import '../dio/dio_helper.dart';
 import 'news_state.dart';
 
 class NewsCubit extends Cubit<NewsState>{
@@ -74,4 +74,14 @@ Future<void>getScience()async{
     print(error);
     emit(ErrorScienceState());
   });
-}}
+}
+
+int currentIndex =0 ;
+  void changeNavBar(index){
+    currentIndex= index;
+    emit(ChangeNavBarState());
+  }
+
+
+
+}

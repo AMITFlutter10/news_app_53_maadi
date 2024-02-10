@@ -1,5 +1,5 @@
 import 'package:dio/dio.dart';
-import 'const.dart';
+import '../const.dart';
 
 class DioHelper {
   static late Dio dio;
